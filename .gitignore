@@ -4,3 +4,4 @@ tmp*
 a.out
 kmcc
 
+.vscode/settings.json
